@@ -187,8 +187,12 @@ nav a:hover {
 	flex: 1;
 }
 
-aside .widget {
+aside .widget a {
 	padding-top: 30px;
+}
+
+aside .widget a {
+	padding-top: 60px;
 }
 
 .widget_title1 {
@@ -753,11 +757,12 @@ footer .widget_title_text {
 	}
 
 	.widget_title1 {
-		padding-top: 270px;
+		padding-top: 295px;
 	}
 
 	aside .widget {
 		padding: 10px;
+		padding-top: 20px;
 		padding-right: 25px;
 	}
 
