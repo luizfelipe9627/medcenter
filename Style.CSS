@@ -187,6 +187,10 @@ nav a:hover {
 	flex: 1;
 }
 
+aside .widget {
+	padding-top: 30px;
+}
+
 .widget_title1 {
 	margin-top: 30px;
 	margin-bottom: 20px;
@@ -446,6 +450,7 @@ footer {
 
 .footer_area {
 	display: flex;
+	padding-top: 20px;
 }
 
 .flexcolumn {
@@ -493,10 +498,12 @@ footer .widget_title_text {
 .widget_body_text1 {
 	color: #6f7377;
 	font-size: 13px;
+	padding-top: 20px;
 }
 
 .widget_body_text2 {
 	font-size: 13px;
+	padding-top: 20px;
 }
 
 .widget_sub1,
@@ -531,6 +538,7 @@ footer .widget_title_text {
 .widget_body_text3 {
 	color: #6f7377;
 	font-size: 13px;
+	padding-top: 20px;
 }
 
 .widget_body_text3 a {
@@ -706,7 +714,7 @@ footer .widget_title_text {
 
     .footer_area {
 		flex-direction: column;
-        padding-bottom: 10px;
+        padding: 10px;
         }
 
 	.footer_copy {
@@ -745,7 +753,7 @@ footer .widget_title_text {
 	}
 
 	.widget_title1 {
-		padding-top: 310px;
+		padding-top: 270px;
 	}
 
 	aside .widget {
