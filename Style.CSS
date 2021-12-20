@@ -693,6 +693,7 @@ footer .widget_title_text {
 		display: none;
 		position: absolute;
 		left: 0;
+		top: 120px;
 		width: 100%;
 		background-color: #ffffff;
 	}
