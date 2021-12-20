@@ -187,12 +187,8 @@ nav a:hover {
 	flex: 1;
 }
 
-aside .widget a {
+aside .widget {
 	padding-top: 30px;
-}
-
-aside .widget a {
-	padding-top: 60px;
 }
 
 .widget_title1 {
@@ -561,9 +557,8 @@ footer .widget_title_text {
 .widget_body {
 	color: #6f7377;
 	font-size: 16px;
-	margin-top: 30px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	padding-left: 15px;
 	display: column;
 }
@@ -572,7 +567,7 @@ footer .widget_title_text {
 	color: #6f7377a8;
 	font-size: 16px;
 	text-align: right;
-	padding-top: 5px;
+	padding-bottom: 15px;
 }
 
 .widget_bar1,
@@ -714,10 +709,10 @@ footer .widget_title_text {
 		padding-top: 10px;
 	}
 
-    .footer_area {
+	.footer_area {
 		flex-direction: column;
-        padding: 10px;
-        }
+		padding: 10px;
+	}
 
 	.footer_copy {
 		padding-left: 20px;
@@ -755,7 +750,7 @@ footer .widget_title_text {
 	}
 
 	.widget_title1 {
-		padding-top: 295px;
+		padding-top: 310px;
 	}
 
 	aside .widget {
