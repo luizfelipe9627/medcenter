@@ -495,7 +495,7 @@ footer .widget_title_text {
 	color: #6f7377;
 	font-size: 12px;
 	margin-top: 10px;
-	display: flex;
+	padding-left: 20px;
 }
 
 .fm_title {
@@ -681,10 +681,6 @@ footer .widget_title_text {
 		padding: 10px;
 	}
 
-	.footer_copy {
-		padding-left: 20px;
-	}
-
 	header .container {
 		flex-direction: row;
 	}
@@ -694,6 +690,7 @@ footer .widget_title_text {
 		display: none;
 		position: absolute;
 		left: 0;
+		bottom: 40px;
 		width: 100%;
 		background-color: #ffffff;
 	}
