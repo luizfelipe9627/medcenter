@@ -607,6 +607,17 @@ footer .widget_title_text {
 	padding-right: 10px;
 }
 
+.menu_mobile {
+		display: none;
+		width: 40px;
+		height: 40px;
+		margin-right: 20px;
+	}
+
+	.mm_line {
+		height: 2px;
+		background-color: #0079c7;
+	}
 @media (max-width: 600px) {
 	.banner_headline {
 		padding: 20px;
@@ -720,15 +731,4 @@ footer .widget_title_text {
 		padding-top: 130px;
 	}
 
-	.menu_mobile {
-		display: none;
-		width: 40px;
-		height: 40px;
-		margin-right: 20px;
-	}
-
-	.mm_line {
-		height: 2px;
-		background-color: #0079c7;
-	}
 }
