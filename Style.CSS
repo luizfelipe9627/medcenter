@@ -288,18 +288,17 @@ aside .widget {
 
 .widget_bar1 {
 	font-size: 16px;
-	padding-left: 15px;
 	border-left: 1px solid rgb(214, 212, 212);
 	border-right: 1px solid rgb(214, 212, 212);
 	color: #6f7377;
 	display: flex;
+	padding: 10px;
 }
 
 .widget_bar1 img {
 	width: 40px;
 	height: 40px;
 	display: flex;
-	padding-right: 10px;
 }
 
 .widget_bar2 {
@@ -308,6 +307,7 @@ aside .widget {
 	background-color: #f0f0f0;
 	background-color: rgb(240, 240, 240);
 	display: flex;
+	padding: 10px;
 }
 
 .widget_bar2 img {
@@ -325,6 +325,7 @@ aside .widget {
 	border: 1px solid rgb(214, 212, 212);
 	background-color: rgb(240, 240, 240);
 	display: flex;
+	padding: 10px;
 }
 
 .widget_bar3 img {
@@ -341,6 +342,7 @@ aside .widget {
 	border: 1px solid rgb(214, 212, 212);
 	color: #6f7377;
 	display: flex;
+	padding: 10px;
 }
 
 .widget_bar4 img {
@@ -357,7 +359,7 @@ aside .widget {
 	background-color: #f0f0f0;
 	border: 1px solid rgb(214, 212, 212);
 	display: flex;
-	padding-left: 10px;
+	padding: 10px;
 }
 
 .widget_bar5 img {
@@ -611,13 +613,15 @@ footer .widget_title_text {
 		display: none;
 		width: 40px;
 		height: 40px;
+		top: 160px;
 		margin-right: 20px;
 	}
 
 	.mm_line {
 		height: 2px;
-		background-color: #0079c7;
+		background-color: #39aae1;
 	}
+
 @media (max-width: 600px) {
 	.banner_headline {
 		padding: 20px;
@@ -690,7 +694,6 @@ footer .widget_title_text {
 		display: none;
 		position: absolute;
 		left: 0;
-		top: 120px;
 		width: 100%;
 		background-color: #ffffff;
 	}
