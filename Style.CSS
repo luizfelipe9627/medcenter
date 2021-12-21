@@ -690,7 +690,8 @@ footer .widget_title_text {
 		display: none;
 		position: absolute;
 		left: 0;
-		bottom: auto;
+		bottom: 120px;
+		padding-bottom: 120px;
 		width: 100%;
 		background-color: #ffffff;
 	}
