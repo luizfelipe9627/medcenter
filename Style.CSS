@@ -367,7 +367,7 @@ aside .widget {
 	height: 40px;
 	display: flex;
 	padding-right: 4px;
-	padding-left: 5px;
+	padding-left: 4px;
 }
 
 article .news_data {
@@ -687,9 +687,8 @@ footer .widget_title_text {
 		flex-direction: column;
 		display: none;
 		position: absolute;
-		border-radius: 5px;
+		border-radius: 6px;
 		left: 0;
-		top: 40px;
 		width: 100%;
 		background-color: #ffffff;
 	}
