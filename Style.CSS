@@ -312,8 +312,8 @@ aside .widget {
 }
 
 .widget_bar2 img {
-	width: 40px;
-	height: 30px;
+	width: 30px;
+	height: 20px;
 	display: flex;
 	padding-right: 7px;
 	padding-left: 6px;
@@ -366,7 +366,7 @@ aside .widget {
 	height: 40px;
 	display: flex;
 	padding-left: 5px;
-	padding-right: 4px;
+	padding-right: 2px;
 }
 
 article .news_data {
@@ -686,6 +686,7 @@ footer .widget_title_text {
 		flex-direction: column;
 		display: none;
 		position: absolute;
+		border-radius: 5px;
 		left: 0;
 		width: 100%;
 		background-color: #ffffff;
