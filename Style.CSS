@@ -608,7 +608,7 @@ footer .widget_title_text {
 	display: none;
 	width: 40px;
 	height: 40px;
-	margin-top: 80px;
+	margin-top: 20px;
 	margin-bottom: 40px;
 	margin-right: 20px;
 }
@@ -687,6 +687,7 @@ footer .widget_title_text {
 		position: absolute;
 		border-radius: 5px;
 		left: 0;
+		top: 40px;
 		width: 100%;
 		background-color: #ffffff;
 	}
