@@ -367,7 +367,7 @@ aside .widget {
 	height: 40px;
 	display: flex;
 	padding-right: 10px;
-	padding-left: 6px;
+	padding-left: 4px;
 }
 
 article .news_data {
@@ -492,7 +492,7 @@ footer .widget_title_text {
 	border-top: 1px solid #2c2c2c;
 	color: #6f7377;
 	font-size: 12px;
-	padding-top: 20px;
+	padding: 5px;
 }
 
 .fm_title {
