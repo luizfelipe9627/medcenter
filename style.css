@@ -679,6 +679,10 @@ footer .widget_title_text {
 		padding: 10px;
 	}
 
+	.footer_copy {
+		padding: 20px;
+	}
+
 	header .container {
 		flex-direction: row;
 	}
