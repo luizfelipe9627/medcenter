@@ -1,5 +1,7 @@
 # Medcenter
 
+<img src="public/images/medcenter.png" alt="exemplo imagem">
+
 > Medcenter é um site hospitalar na qual foi criado no intuito de facilitar e agilizar o atendimento e agendamento dos clientes, priorizando sempre o cliente e seu bem estar.
 
 # <a href="https://luizfelipe9627.github.io/medcenter">Acesse o projeto</a>
