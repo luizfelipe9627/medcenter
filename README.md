@@ -3,10 +3,10 @@
 
 <img src="https://github.com/luizfelipe9627/medcenter/blob/master/images/medcenter.png" alt="Site">
 
-# Resumo
+## 📄 Resumo
 Medcenter é um site hospitalar na qual foi criado no intuito de facilitar e agilizar o atendimento e agendamento dos clientes.
 
-# <a href="https://luizfelipe9627.github.io/medcenter">Acesse o site</a>
+## <a href="https://luizfelipe9627.github.io/medcenter">Acesse o site</a>
 
 ## ✔️ Tecnologias utilizadas
 
