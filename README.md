@@ -3,10 +3,12 @@
 
 <img src="https://github.com/luizfelipe9627/medcenter/blob/master/images/medcenter.png" alt="Site">
 
-## 📄 Resumo
-Depois de muito estudo sobre HTML5 e CSS3, foi hora de botar em prática, criei o site Medcenter junto ao Bonieky do B7WEB. Foi usado também responsividade para práticar.
-<br>
+## 📄 Descrição
 Medcenter é um site hospitalar na qual foi criado no intuito de facilitar e agilizar o atendimento e agendamento dos clientes.
+
+## 👀 Observação
+Depois de muito estudo sobre HTML5 e CSS3, foi hora de botar em prática, criei o site Medcenter junto ao Bonieky do B7WEB. Foi usado também responsividade para práticar.
+
 
 ### <a href="https://luizfelipe9627.github.io/medcenter">Acesse o site</a>
 
