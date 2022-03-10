@@ -14,8 +14,7 @@ Depois de muito estudo sobre HTML5 e CSS3, foi hora de botar em prática, criei 
 ## 🔍 Layout
 Este layout foi criado por EnvatoMarket.
 
-### <a href="https://themeforest.net/item/medicenter-responsive-medical-health-template/4000598?irgwc=1&clickid=zqy1TsUYdxyIW6hxiqQJ90LWUkGW6z1WZyeHWE0&iradid=275988&irpid=1310690&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1310690&utm_medium=affiliate&utm_source=impact_radius
-">Acesse o layout</a>
+### <a href="https://themeforest.net/item/medicenter-responsive-medical-health-template/4000598?irgwc=1&clickid=zqy1TsUYdxyIW6hxiqQJ90LWUkGW6z1WZyeHWE0&iradid=275988&irpid=1310690&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1310690&utm_medium=affiliate&utm_source=impact_radius">Acesse o layout</a>
 
 ## 💻 Tecnologias utilizadas
 
