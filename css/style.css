@@ -68,7 +68,7 @@ nav a:hover {
 .banner {
 	display: flex;
 	justify-content: center;
-	background-image: url("https://luizfelipe9627.github.io/medcenter/assets/images/banner.jpg");
+	background-image: url("../assets/img/banner.jpg");
 	background-position: center;
 	background-size: cover;
 	height: 670px;

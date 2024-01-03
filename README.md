@@ -1,12 +1,12 @@
 # Medcenter
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/medcenter/blob/master/assets/videos/medcenter.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/medcenter/blob/master/assets/img/medcenter.gif" alt="Site">
 
 ## 📄 Descrição
 Medcenter é um site hospitalar na qual foi criado no intuito de facilitar e agilizar o atendimento e agendamento dos clientes.
 
-### <a href="https://luizfelipe9627.github.io/medcenter">Acesse o site</a>
+### <a href="https://luizfelipe9627-medcenter.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Depois de muito estudo sobre HTML5 e CSS3, foi hora de botar em prática, criei o site Medcenter junto ao Bonieky do B7WEB. Foi usado também responsividade para práticar.
